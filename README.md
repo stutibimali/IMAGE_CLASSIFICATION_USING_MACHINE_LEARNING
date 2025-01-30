@@ -44,6 +44,12 @@ To classify a new image, the user provides the URL of the image.
 The image is read and preprocessed (resized and flattened).
 The model predicts the class of the image.
 
+## Results
+After training the model, you can use it to predict the category of any new image. The model will output the predicted category based on the trained data.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 # miniproject
 VERGEO Internship Miniproject
 
